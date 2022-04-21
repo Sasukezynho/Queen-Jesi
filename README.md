@@ -38,7 +38,7 @@ Project created by <a href="https://github.com/Sl-Yasia">Sl-Yasia</a> to make it
 
 [![Run on Repl.it](https://repl.it/badge/github/Sl-Yasia/Queen-Jesi)](https://replit.com/@Yasiya/Queen-Jesi)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sl-Yasia/Queen-Jesi)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sasukezynho/Queen-Jesi)
 
 ## F.A.Q
 Answer a few frequently asked questions;
